@@ -13,7 +13,7 @@
 
 # Explicação
 
- Esse código não protegerá seu website 100%, há formas de burlar esse script, mas não é tão fácil assim. A forma mais simples de proteger seus códigos, é comprando um selo do Google, que não permite a leitura dos seus códigos. 
+ Esse código não protegerá seu website 100%, há formas de burlar esse script, mas não é tão fácil assim. A forma mais simples de proteger seus códigos, é comprando um selo, que não permite a leitura dos seus códigos. 
 
 # Suporte
 
