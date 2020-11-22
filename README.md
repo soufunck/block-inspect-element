@@ -1,2 +1,6 @@
-# block-inspect-element
-Um código simples que protegerá seu website de pegarem o código com a key Ctrl + Shift + I, além do clique com o botão direito do mouse.
+# Como implementar no HTML
+
+ Você pode definir um arquivo para scripts, em JavaScript, desta forma:
+```html
+<script src="local/arquivo.js"></script>
+```
