@@ -1,5 +1,5 @@
 // Função para bloquear a leitura do menu de contexto
-function offContextMeny() {
+function offContextMenu() {
      return false;
 }
 
