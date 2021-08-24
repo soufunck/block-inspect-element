@@ -1,4 +1,4 @@
-# Como implementar no HTML
+# 🤔 Como implementar no HTML
 
  Você pode definir um arquivo para scripts, em JavaScript, desta forma:
 ```html
@@ -11,10 +11,5 @@
 </script>
 ```
 
-# Explicação
-
- Esse código não protegerá seu website 100%, há formas de burlar esse script, mas não é tão fácil assim. A forma mais simples de proteger seus códigos, é comprando um selo, que não permite a leitura dos seus códigos. 
-
-# Suporte
-
- Dúvidas? Entre na minha comunidade de programação, a [StackLab](https://discord.gg/UhEUW4h6mb)
+# 📮 Block Inspect Element
+Um simples bloqueador do inspect element, ou inspencionar elementos. Evitando que algumas pessoas visualizem o código. (Não bloqueia totalmente, há formas de burlar o código :D)
